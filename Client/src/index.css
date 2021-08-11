@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
